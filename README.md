@@ -1,4 +1,4 @@
-# Ender-3-SKR-mini-E3-v3-Marlin-Config-2.1.1
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+## Ender-3-SKR-mini-E3-v3-Marlin-Config-2.1.1
 
-*********Marlin 2.1.1 for Skr mini E3 v3*************
+Configuration For my personal Ender 3 with SKR mini E3 v3
+Feel free to use, if you find any problems issue them.
